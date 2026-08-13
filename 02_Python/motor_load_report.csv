@@ -1,0 +1,7 @@
+Motor ID,Description,HP,FLA (A),Min Cable Ampacity (A),Cable Size,Max Breaker (A),Selected Breaker (A)
+M-1,Supply Fan (AHU-1),5,7.6,9.5,14 AWG,19.0,20
+M-2,Return Fan (AHU-1),3,4.8,6.0,14 AWG,12.0,15
+M-3,Chilled Water Pump (P-1),20,27,33.75,10 AWG,67.5,70
+M-4,Exhaust Fan (EF-1),1,2.1,2.62,14 AWG,5.25,15
+M-5,Cooling Tower Fan (CT-1),25,34,42.5,8 AWG,85.0,90
+M-6,Air Compressor (AC-1),15,21,26.25,10 AWG,52.5,60
